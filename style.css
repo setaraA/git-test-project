@@ -5,5 +5,5 @@
 }
 
 body{
-    background-color: blue;
+    background: linear-gradient(90deg, blue, violet);
 }
